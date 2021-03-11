@@ -744,13 +744,8 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(39, 37, 31, 0.4);
     padding: 40px 40px 40px 40px;
-}
-
-.bold-link {
-    font-weight: 900;
-    text-decoration: underline!important;
 }
 
 .bgc-white {
@@ -781,6 +776,8 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    font-weight: 900;
+    text-decoration: underline!important;
 }
 
 .ltc-white:hover {
