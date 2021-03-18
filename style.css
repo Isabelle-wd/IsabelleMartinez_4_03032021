@@ -375,7 +375,12 @@ button {
     text-shadow: 0 1px 0 rgba(0, 0, 1, .1);
     box-shadow: 0 1px 3px rgba(0, 0, 1, .25), inset 0 1px 0 0 rgba(255, 255, 255, .15);
 }
-
+#bloc-8 {
+    font-size: 2.5em;
+}
+.fa-twitter, .fa-facebook, .fa-dribbble, .fa-instagram {
+    color: #ffffff;
+}
 .icon-md:hover {
     color: #1877F2;
 }
@@ -545,7 +550,8 @@ h3, h4, h5, h6, label, .btn {
 }
 .d-bloc a {
     color: #ffffff;
-    font-size: 2.5em;
+    background-color: #F3976C;
+    font-size: 1em;
     font-weight: bolder;
 }
 .d-bloc a:hover {
@@ -603,6 +609,7 @@ p {
     margin: auto auto auto auto;
     padding-top: 30px;
     padding-bottom: 40px;
+    color: #ffffff;
 }
 
 h2 {
