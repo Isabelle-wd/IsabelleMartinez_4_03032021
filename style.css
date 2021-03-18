@@ -556,11 +556,6 @@ h3, h4, h5, h6, label, .btn {
     font-weight: normal;
 }
 
-.tight-width-whitespace {
-    color: #e2d3d3;
-    font-size: 0.9em;
-}
-
 .container {
     max-width: 1000px;
 }
@@ -590,6 +585,8 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    color: black;
+    font-size: 1em;
 }
 
 .cta-hero {
