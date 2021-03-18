@@ -550,7 +550,7 @@ h3, h4, h5, h6, label, .btn {
 }
 .d-bloc a {
     color: #ffffff;
-    background-color: #F3976C;
+    background-color: #b25f38;
     font-size: 1em;
     font-weight: bolder;
 }
@@ -613,7 +613,8 @@ p {
 }
 
 .premier {
-    font-size: 22px;
+    font-size: 25px;
+    font-weight: bold;
     line-height: 1.4em;
     margin-top: 10px;
     margin-bottom: 10px;
