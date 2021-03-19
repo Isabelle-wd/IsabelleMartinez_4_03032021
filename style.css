@@ -621,6 +621,10 @@ p {
     text-align: center;
     color: #F3976C;
 }
+.deuxieme {
+    color: #575757;
+    font-size: 0.8em;
+}
 h2 {
     font-size: 15px;
     text-transform: uppercase;
@@ -652,6 +656,11 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 0.9em;
+}
+.white2 {
+    color: #ffffff;
+    font-size: 0.4em;
 }
 
 .portfolio-thumb {
@@ -668,7 +677,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(39, 37, 31, 0.4);
+    background-color: rgba(39, 37, 31, 0.3);
     padding: 40px 40px 40px 40px;
 }
 
