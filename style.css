@@ -564,7 +564,15 @@ h3, h4, h5, h6, label, .btn {
     font-size: 1em;
     font-weight: normal;
 }
-
+.text1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.text1 p {
+    font-size: 1.7em;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 .container {
     max-width: 1000px;
 }
@@ -883,16 +891,16 @@ h4 {
         float: left;
         margin-left: 10px;
     }
+
     .portfolio-row {
         flex-direction: column;
     }
-    .row .portfolio-row .col-sm-6 {
-        margin-left: 100px;
-        
+    .col-sm-6 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
-    .col-sm-6 a {
-        width: 300px;
-    }
+   
     .bloc {
         padding-left: 0;
         padding-right: 0;
