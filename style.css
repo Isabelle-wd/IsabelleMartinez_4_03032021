@@ -159,6 +159,16 @@ a:hover {
 #form_1 {
     padding-left: 25px;
 }
+#address {
+    font-size: 0.9em;
+}
+#address a {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#address a:hover {
+    color: blue;
+}
 .col-xs-12 img {
     max-width: 100%;
 }
